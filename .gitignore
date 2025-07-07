@@ -1,2 +1,4 @@
 bptest.json
 bptest.json
+__pycache__/
+*.pyc
