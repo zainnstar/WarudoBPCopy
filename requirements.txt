@@ -1,0 +1,9 @@
+# No external dependencies required
+# This application uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - json (JSON handling)
+# - os (file system operations)
+# - uuid (UUID generation)
+# - copy (deep copy operations)
+# - typing (type hints)
+# - re (regular expressions)
