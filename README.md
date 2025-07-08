@@ -43,7 +43,7 @@ Warudo シーンファイル（JSON）間でブループリント（BP）をコ�
 
 1. Start the application:
    ```powershell
-   ./WarudoBPCopy_start.bat
+   WarudoBPCopy_start.bat
    ```
 2. Click "Load Source Scene" to select the source scene file.
 3. Click "Load Target Scene" to select the target scene file.
@@ -59,7 +59,7 @@ Warudo シーンファイル（JSON）間でブループリント（BP）をコ�
 
 1. アプリケーションを起動します:
    ```powershell
-   ./WarudoBPCopy_start.bat
+   WarudoBPCopy_start.bat
    ```
 2. 「Load Source Scene」ボタンでコピー元シーンファイルを選択
 3. 「Load Target Scene」ボタンでコピー先シーンファイルを選択
